@@ -1,2 +1,3 @@
 # wordle_solver
-Wordle solver using entropy 
+Wordle solver using entropy {PLACE HOLDER}
+
